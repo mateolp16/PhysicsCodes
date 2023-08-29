@@ -1,49 +1,34 @@
 
 
-Exercises (documentation lesson)
-================================
+Summary (Codes and documentation)
+=================================
 
 Before you start
 ----------------
 
-- Discuss the exercise idea with the classroom.
-- Distribute exercises among groups of 2-3 persons.
-- Open a GitHub issue and inform the community about the problem and how you
-  plan to solve it. Discuss why we do this.
-- Fork this project.
-- Commit to your fork. In your commit message auto-close the issue you have addressed.
-- Submit a pull request.
-- We then review the pull requests.
-- After the pull requests are merged we verify that documentation updates itself.
+- The codes are programmed with numerical methods, so it is necessary that with     the help of the book mentioned in the credits you have a bit of context about what they are, how they work and what differentiates them from analytical methods.
+- In case something´s wrong with some code, let me know at elizabethgran04@gmail.com and i´ll try to solve it as soon as possible.  
+- Use these codes as a second option after trying for yourself to solving them. It´s very important first to try ourselves before asking for help!
+- The physics codes that will be solved here will all have the force of friction. The idea was mainly to include external forces in the codes so we can watch a more realistic behavior of the movement. Following this path, some differential equations will not have an analitic solution but numerical.
 
 
-Basic
------
+Programms we´ll find in here!
+-----------------------------
 
-- Document the purpose of this example code.
-- Document how to clone the code.
-- Describe the project tree structure.
-- Write a sentence or two about Zipf's law and link to Wikipedia
-  (coordinate with the group working on the previous exercise).
-- Document how to check the code style with ``pycodestyle``.
-- Give other developers hints on how they can contribute to the documentation.
-- Document how to build the documentation locally
-  (coordinate with the group working on the previous exercise).
-- Add an example output.
-- Add an example plot
-  (coordinate with the group working on the previous exercise).
-- Document where/how to ask for help.
-- Add a math equation somewhere.
+- Radioactive Decay 
+- Free Fal
+- Parabolic Motion
+- Parabolic Motion with Magnus Force
+- Pendulum
+- GlowScript programm for pendulum
+- Planetarium Motion
 
 
-Advanced
---------
 
-- Add a test and document how to run it.
-- Add the possibility to auto-document Python code.
+Next Step!
+----------
 
-
-Meta
-----
-
-- Add new exercises ideas for future workshops (edit this file).
+- The principal Meta is to **understand** all codes here programmed.
+- Try to solve the same programms with different numerical methods!
+- Try to solve evrything you can analytically because solving these equations by hand can help the process of learning the physics you´re programming. It´s way easer programm physics than understand them, so go slow and try to understand the things you´re solving :) 
+- Make a GitHub repository with your codes and share them!

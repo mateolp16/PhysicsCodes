@@ -4,14 +4,16 @@
    table of contents
 
 
-Basics
-==========
+Welcome to Physics Code´s documentation!
+========================================
 
 .. toctree::
    :maxdepth: 2
 
    purpose.rst
    dependencies.rst
-   usage.rst
    credit.rst
    exercises.rst
+   feature-a.md
+   feature-b.md
+   feature-c.md
