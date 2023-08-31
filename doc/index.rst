@@ -13,6 +13,7 @@ Welcome to Physics Code´s documentation!
    purpose.rst
    dependencies.rst
    credit.rst
+   coderefinery.rst
    exercises.rst
    feature-a.md
    feature-b.md
