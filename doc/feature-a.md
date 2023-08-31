@@ -6,7 +6,7 @@
 Radioactive decay is given by the following function:
 
 ```{math}
-\frac {dN_{u}}{dt} = -\frac {N_{u}}{τ}+589
+\frac {dN_{u}}{dt} = -\frac {N_{u}}{τ}
 ```
 
 Where {math}`τ` is the time constant for the decay. To carry out the exact/analytical solution, what we will do is apply the method of **separable variables**, that is:
